@@ -1,5 +1,8 @@
-# Rainbow-Song
+# Quick Song
 
-A song about rainbows in the key of C major.
-
-The song is a happy song.
+This is my song
+It's not very long
+I'll try to write something
+Where the words don't belong
+Hyperbolic messages
+I'm striking a gong
